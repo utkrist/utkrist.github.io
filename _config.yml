@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Utkrist Adhikari"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Utkrist Adhikari"
+description              : &description "I'm an ardent leaner who loves challeges and working on novel projects. I am an AI and ML enthusiast."
 url                      : https://utkrist.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "utkrist/utkrist.github.io"
@@ -82,7 +82,7 @@ author:
   name             : "Utkrist Adhikari"
   avatar           : "profile.jpg"
   bio              : "I'm an ardent leaner who loves challeges and working on novel projects. I am an AI and ML enthusiast."
-  location         : "Bonn"
+  location         : "Bonn, Germany"
   employer         :
   googlescholar    : 
   email            : "utkrist@outlook.com"
@@ -204,7 +204,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
+ # _teaching
   - scope:
       path: ""
       type: teaching
@@ -213,7 +213,7 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _publications
+ # _publications
   - scope:
       path: ""
       type: publications
@@ -231,7 +231,7 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _talks
+ # _talks
   - scope:
       path: ""
       type: talks
@@ -239,7 +239,6 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-
 # Sass/SCSS
 sass:
   sass_dir: _sass
@@ -260,13 +259,16 @@ gems:
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
+
+plugins:
+  - jemoji
+
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
-  - jemoji
 
 
 # Archives
