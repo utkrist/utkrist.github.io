@@ -14,8 +14,6 @@ Interests
 =====
 I interested in following:
 1. Theoretical and mathematical foundations of machine learning.
-2. Adaptable and general ML systems/models that can learn and unlearn to perform multiple or any tasks as demanded
-
-In my leisure time, I do readings on financial literacy and self-improvment.
+2. Adaptable and general ML systems/models that can learn and unlearn to perform multiple or any tasks as demanded.
 
 
